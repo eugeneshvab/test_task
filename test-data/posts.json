@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "title": "Test Post A",
+    "body": "Body content for test post A"
+  },
+  {
+    "userId": 2,
+    "title": "Test Post B",
+    "body": "Body content for test post B"
+  },
+  {
+    "userId": 1,
+    "title": "Minimal post",
+    "body": "Short"
+  }
+]

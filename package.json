@@ -1,0 +1,16 @@
+{
+  "name": "api-qa-automation",
+  "version": "1.0.0",
+  "description": "API automation framework for JSONPlaceholder using Playwright",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report playwright-report",
+    "test:ci": "playwright test --reporter=html"
+  },
+  "keywords": ["api", "testing", "playwright"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
