@@ -2,8 +2,6 @@
 
 All test cases for the JSONPlaceholder API automation framework.
 
----
-
 ## Posts Endpoint
 
 ### TC-POST-001: GET all posts (positive)
